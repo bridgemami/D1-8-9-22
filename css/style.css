@@ -22,4 +22,19 @@ text-align: right;
 
 .p2 {
     text-align: right;
+    margin-bottom: 5vh;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #001D24;
+    height: 10vh;
+}
+footer p {
+    text-align: center;
+    color: #fff;
+    font-family: serif;
+
 }
