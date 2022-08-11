@@ -4,8 +4,7 @@
 }
 
 section {
-    position: relative;
-    top: 0;
+   padding: 0 10vw;
 }
 
 .heavy { 
@@ -25,7 +24,7 @@ p {
 }
 
 .space {
-margin-top: 20px;
+margin-top: 3vh;
 text-align: right;
 }
 
