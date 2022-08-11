@@ -7,3 +7,19 @@
     font: bold 40px sans-serif; 
     fill: #fff;
 }
+
+h2 {
+    color: #0C6D78;
+    font-family: serif;
+    letter-spacing: 0.5vw;
+    margin-bottom: 2vh;
+}
+
+.space {
+margin-top: 20px;
+text-align: right;
+}
+
+.p2 {
+    text-align: right;
+}
