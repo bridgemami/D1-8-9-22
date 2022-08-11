@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+section {
+    position: relative;
+    top: 0;
+}
+
 .heavy { 
     font: bold 40px sans-serif; 
     fill: #fff;
@@ -11,8 +16,12 @@
 h2 {
     color: #0C6D78;
     font-family: serif;
-    letter-spacing: 0.5vw;
+    letter-spacing: 0.25vw;
     margin-bottom: 2vh;
+}
+
+p {
+    font-family: serif;
 }
 
 .space {
