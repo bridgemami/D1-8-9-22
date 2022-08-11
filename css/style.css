@@ -3,7 +3,46 @@
     margin: 0;
 }
 
+section {
+   padding: 0 10vw;
+}
+
 .heavy { 
     font: bold 40px sans-serif; 
     fill: #fff;
+}
+
+h2 {
+    color: #0C6D78;
+    font-family: serif;
+    letter-spacing: 0.25vw;
+    margin-bottom: 2vh;
+}
+
+p {
+    font-family: serif;
+}
+
+.space {
+margin-top: 3vh;
+text-align: right;
+}
+
+.p2 {
+    text-align: right;
+    margin-bottom: 5vh;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #001D24;
+    height: 10vh;
+}
+footer p {
+    text-align: center;
+    color: #fff;
+    font-family: serif;
+
 }
